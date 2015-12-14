@@ -2,7 +2,7 @@
 
 A private Rally version of [react-present](https://github.com/limscoder/react-present) for internal presentations.
 
-## Presentations
+# Presentations
 
 Click to download, open `index.html` to view.
 
