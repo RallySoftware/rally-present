@@ -1,15 +1,18 @@
 # rally-present
 
-A private Rally version of [react-present](https://github.com/limscoder/react-present) for internal presentations.
+A private version of [react-present](https://github.com/limscoder/react-present) for internal presentations.
 
-# Presentations
+# presentations
 
 Click to download, open `index.html` to view.
 
  * [rally-i18n](https://github.com/RallySoftware/rally-present/raw/zips/built-presentations/rally-i18n.zip)
  * [repo-supremo](https://github.com/RallySoftware/rally-present/raw/zips/built-presentations/repo-supremo.zip)
+ * [i18n-tooling](https://github.com/RallySoftware/rally-present/raw/zips/built-presentations/i18n-tooling.zip)
 
 # react-present
+
+A simple, lightweight framework for creating presentations quickly using React components for slides.
 
 Uses hot module loading via `webpack` for easy presentation development. Keyboard, mouse, gui, and url navigation between slides via `react-router`. Code highlighting and editing via `react-ace`. Presentation app can be viewed entirely from static files without running a webserver, and can be easily hosted via [github pages](https://pages.github.com/).
 
