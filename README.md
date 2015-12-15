@@ -6,9 +6,9 @@ A private version of [react-present](https://github.com/limscoder/react-present)
 
 Click to download, open `index.html` to view.
 
- * [rally-i18n](https://github.com/RallySoftware/rally-present/raw/zips/built-presentations/rally-i18n.zip)
- * [repo-supremo](https://github.com/RallySoftware/rally-present/raw/zips/built-presentations/repo-supremo.zip)
- * [i18n-tooling](https://github.com/RallySoftware/rally-present/raw/zips/built-presentations/i18n-tooling.zip)
+ * [rally-i18n](https://github.com/RallySoftware/rally-present/raw/master/built-presentations/rally-i18n.zip)
+ * [repo-supremo](https://github.com/RallySoftware/rally-present/raw/master/built-presentations/repo-supremo.zip)
+ * [i18n-tooling](https://github.com/RallySoftware/rally-present/raw/master/built-presentations/i18n-tooling.zip)
 
 # react-present
 
